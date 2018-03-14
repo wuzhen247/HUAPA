@@ -7,6 +7,7 @@ The original datasets are released by the paper [Tang et al., 2015]. [[Download]
 # Train
 For example, you can use the folowing command to train HUAPA in the dataset imdb:
 > python train.py --n_class 10 --dataset imdb
+
 The best model will be saved in the folder "../checkpoints/imdb/timestamp". The timestamp is server time.
 
 # Test
