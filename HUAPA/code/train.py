@@ -23,7 +23,7 @@ tf.flags.DEFINE_float("lr", 0.005, "Learning rate")
 
 # Training parameters
 tf.flags.DEFINE_integer("batch_size", 100, "Batch Size")
-tf.flags.DEFINE_integer("num_epochs", 10000, "Number of training epochs (default: 200)")
+tf.flags.DEFINE_integer("num_epochs", 1000, "Number of training epochs")
 tf.flags.DEFINE_integer("evaluate_every", 25, "Evaluate model on dev set after this many steps")
 
 # Misc Parameters
