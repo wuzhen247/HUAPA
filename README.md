@@ -12,7 +12,7 @@ The best model will be saved in the folder "../checkpoints/imdb/timestamp". The 
 
 # Test
 For example, you can use the folowing command to test HUAPA in the dataset imdb:
-> python test.py --n_class 10 --dataset imdb --checkpoint ../checkpoints/imdb/timestamp.
+> python test.py --n_class 10 --dataset imdb --checkpoint ../checkpoints/imdb/timestamp
 
 # Cite
 if you use the code, please cite the following paper:
