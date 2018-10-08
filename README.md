@@ -3,6 +3,7 @@ HUAPA is the proposed model in 《Improving Review Representations with User Att
 
 # Data
 The original datasets are released by the paper [Tang et al., 2015]. [[Download]](http://ir.hit.edu.cn/%7Edytang/paper/acl2015/dataset.7z)
+The embedding file. [[Download]](https://pan.baidu.com/s/195jduYugfYIgZLbHXHmKaA#list/path=%2F)
 
 # Train
 For example, you can use the folowing command to train HUAPA in the dataset imdb:
